@@ -18,6 +18,9 @@
 
  - Query: Çalışacak query.
 
+
+Projeye eklemek için: 'dotnet add package GraphQL' yada Nugetpackage :https://www.nuget.org/packages/GraphQL
+
 Örnek (Example) Query ;
 
  {
